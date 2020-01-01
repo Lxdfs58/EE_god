@@ -1,0 +1,3 @@
+v6.1 changelog
+目前remove部分記憶體不給過
+shared_ptr的變數型態有重新校正
